@@ -1,0 +1,118 @@
+Factura -> O
+956444 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-03-09 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-03 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hartman -> B-issuer_name
+LLC -> I-issuer_name
+
+9254 -> B-issuer_address
+Walker -> I-issuer_address
+Avenue -> I-issuer_address
+Apt. -> I-issuer_address
+931 -> I-issuer_address
+Raymonoville, -> I-issuer_address
+AR -> I-issuer_address
+58121 -> I-issuer_address
+
+001-613-442-5789x26267 -> B-issuer_phone
+
+chapmanshelley@grant.com -> B-issuer_email
+
+LRt362Lmy093 -> B-issuer_tax_id
+
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Emily -> B-recipient_name
+Williams -> I-recipient_name
+
+11230 -> B-recipient_address
+Andrew -> I-recipient_address
+Garden -> I-recipient_address
+Suite -> I-recipient_address
+669 -> I-recipient_address
+Morenomouth, -> I-recipient_address
+AZ -> I-recipient_address
+51114 -> I-recipient_address
+
+499-897-0381x824 -> B-recipient_phone
+
+shannon26@gmail.com -> B-recipient_email
+
+NIj398aoQ338 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+enable -> B-item_description
+user-centric -> I-item_description
+markets -> I-item_description
+7 -> B-item_quantity
+67.76 -> B-item_unit_price
+474.32 -> B-item_total
+
+transform -> B-item_description
+scalable -> I-item_description
+vortals -> I-item_description
+6 -> B-item_quantity
+56.14 -> B-item_unit_price
+336.84 -> B-item_total
+
+monetize -> B-item_description
+robust -> I-item_description
+channels -> I-item_description
+1 -> B-item_quantity
+36.74 -> B-item_unit_price
+36.74 -> B-item_total
+
+syndicate -> B-item_description
+customized -> I-item_description
+initiatives -> I-item_description
+7 -> B-item_quantity
+75.66 -> B-item_unit_price
+529.62 -> B-item_total
+
+cultivate -> B-item_description
+impactful -> I-item_description
+niches -> I-item_description
+9 -> B-item_quantity
+71.0 -> B-item_unit_price
+639.0 -> B-item_total
+
+Subtotal -> O
+: -> O
+2016.52 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+322.64 -> B-tax_amount
+
+Total -> O
+: -> O
+2339.16 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

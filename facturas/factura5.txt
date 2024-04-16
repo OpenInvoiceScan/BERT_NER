@@ -1,0 +1,23 @@
+Factura
+FH600301
+
+Fecha de emisión: 2024-03-11
+Fecha de vencimiento: 2024-04-15
+
+Datos del Emisor: Datos del Receptor:
+Williams, York and Schwartz Katrina Fritz
+540 Strong Green North April, AK 08628 0936 Butler Villages Apt. 228 Williamhaven, NY 24061
+2803178625 +1-905-539-8849x13583
+hamptondanielle(O griffin.com mariah650 gmail.com
+vsP770FmMb986 arF309WLD229
+Descripción Cantidad Precio Unitario Total
+expedite 24/7 systems 9 80.86 727.74
+orchestrate web-enabled models 7 65.31 457.17
+drive enterprise technologies 10 46.53 465.3
+
+Subtotal: 1650.21
+VAT (16%): 264.03
+Total: 1914.24
+
+Método de pago: PayPal
+

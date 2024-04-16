@@ -1,0 +1,106 @@
+Factura -> O
+F96311 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-03-24 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-04-20 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Stevens-Thomas -> B-issuer_name
+Edward -> B-recipient_name
+Anderson -> I-recipient_name
+
+60225 -> B-issuer_address
+Wells -> I-issuer_address
+Freeway -> I-issuer_address
+West -> I-issuer_address
+Dorothy, -> I-issuer_address
+MI -> I-issuer_address
+13075 -> I-issuer_address
+553 -> B-recipient_address
+Andrea -> I-recipient_address
+Port -> I-recipient_address
+Suite -> I-recipient_address
+162 -> I-recipient_address
+South -> I-recipient_address
+Bobfurt, -> I-recipient_address
+NE -> I-recipient_address
+28243 -> I-recipient_address
+
+520.514.2735 -> B-issuer_phone
+309.509.0549x55554 -> B-recipient_phone
+
+robertszachary@church-nichols.com -> B-issuer_email
+sonia85@hotmail.com -> B-recipient_email
+
+Qcn591xpo988 -> B-issuer_tax_id
+SEL900ykD342 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+whiteboard -> B-item_description
+extensible -> I-item_description
+metrics -> I-item_description
+5 -> B-item_quantity
+64.39 -> B-item_unit_price
+321.95 -> B-item_total
+
+synergize -> B-item_description
+interactive -> I-item_description
+e-markets -> I-item_description
+2 -> B-item_quantity
+10.33 -> B-item_unit_price
+20.66 -> B-item_total
+
+engineer -> B-item_description
+plug-and-play -> I-item_description
+content -> I-item_description
+2 -> B-item_quantity
+88.36 -> B-item_unit_price
+176.72 -> B-item_total
+
+grow -> B-item_description
+transparent -> I-item_description
+web -> I-item_description
+services -> I-item_description
+9 -> B-item_quantity
+90.34 -> B-item_unit_price
+813.06 -> B-item_total
+
+Subtotal -> O
+: -> O
+1332.39 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+213.18 -> B-tax_amount
+
+Total -> O
+: -> O
+1545.57 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

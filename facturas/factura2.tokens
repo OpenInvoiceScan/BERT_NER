@@ -1,0 +1,78 @@
+Factura -> O
+569724 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-03-18 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-04-19 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Juarez, -> B-issuer_name
+Carlson -> I-issuer_name
+and -> I-issuer_name
+Olson -> I-issuer_name
+Karen -> B-recipient_name
+West -> I-recipient_name
+71101 -> B-issuer_address
+Ellis -> I-issuer_address
+Cape -> I-issuer_address
+Johnsonchester, -> I-issuer_address
+KY -> I-issuer_address
+67965 -> I-issuer_address
+USCGC -> B-recipient_address
+Garrett -> I-recipient_address
+FPO -> I-recipient_address
+AE -> I-recipient_address
+06436 -> I-recipient_address
+001-525-349-0239x461 -> B-issuer_phone
+001-836-738-1191 -> B-recipient_phone
+brandon91@turner-davis.com -> B-issuer_email
+alexanderpierce@hotmail.com -> B-recipient_email
+UhZ894yyl043 -> B-issuer_tax_id
+fcq691FbE298 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+optimize -> B-item_description
+best-of-breed -> I-item_description
+schemas -> I-item_description
+8 -> B-item_quantity
+50.26 -> B-item_unit_price
+402.08 -> B-item_total
+
+Subtotal -> O
+: -> O
+402.08 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+64.33 -> B-tax_amount
+
+Total -> O
+: -> O
+466.41 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

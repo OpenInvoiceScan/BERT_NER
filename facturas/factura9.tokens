@@ -1,0 +1,110 @@
+Factura -> O
+H748950 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-04-05 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-04-11 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Hall, -> B-issuer_name
+Howard -> I-issuer_name
+and -> I-issuer_name
+Compton -> I-issuer_name
+
+7780 -> B-issuer_address
+Christine -> I-issuer_address
+Underpass -> I-issuer_address
+East -> I-issuer_address
+Daniel, -> I-issuer_address
+SD -> I-issuer_address
+10665 -> I-issuer_address
+
+546-443-6969 -> B-issuer_phone
+
+mathisnatalie@fitzgerald.com -> B-issuer_email
+
+YzN809qpY325 -> B-issuer_tax_id
+
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+John -> B-recipient_name
+Martin -> I-recipient_name
+
+981 -> B-recipient_address
+Perez -> I-recipient_address
+Ports -> I-recipient_address
+Cheryltown, -> I-recipient_address
+VA -> I-recipient_address
+68274 -> I-recipient_address
+
+(913)675-2764x8171 -> B-recipient_phone
+
+tiffany56@yahoo.com -> B-recipient_email
+
+IKQ896GSX614 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+morph -> B-item_description
+scalable -> I-item_description
+functionalities -> I-item_description
+4 -> B-item_quantity
+34.04 -> B-item_unit_price
+136.16 -> B-item_total
+
+harness -> B-item_description
+viral -> I-item_description
+eyeballs -> I-item_description
+9 -> B-item_quantity
+88.77 -> B-item_unit_price
+798.93 -> B-item_total
+
+enable -> B-item_description
+one-to-one -> I-item_description
+systems -> I-item_description
+5 -> B-item_quantity
+60.5 -> B-item_unit_price
+302.5 -> B-item_total
+
+iterate -> B-item_description
+intuitive -> I-item_description
+ROI -> I-item_description
+10 -> B-item_quantity
+50.02 -> B-item_unit_price
+500.2 -> B-item_total
+
+Subtotal -> O
+: -> O
+1737.79 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+278.05 -> B-tax_amount
+
+Total -> O
+: -> O
+2015.84 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

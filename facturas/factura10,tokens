@@ -1,0 +1,110 @@
+Factura -> O
+441820 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-04-06 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-04-26 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Wilson -> B-issuer_name
+PLC -> I-issuer_name
+
+0005 -> B-issuer_address
+Logan -> I-issuer_address
+Drives -> I-issuer_address
+Robertmouth, -> I-issuer_address
+NC -> I-issuer_address
+27085 -> I-issuer_address
+
+(371)731-0592x45979 -> B-issuer_phone
+
+april39@wolf-peterson.com -> B-issuer_email
+
+XUD810TJw410 -> B-issuer_tax_id
+
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Megan -> B-recipient_name
+Jackson -> I-recipient_name
+
+0964 -> B-recipient_address
+Olson -> I-recipient_address
+Estates -> I-recipient_address
+Suite -> I-recipient_address
+966 -> I-recipient_address
+New -> I-recipient_address
+Jason, -> I-recipient_address
+NV -> I-recipient_address
+60790 -> I-recipient_address
+
+455-983-6985 -> B-recipient_phone
+
+castillodaniel@yahoo.com -> B-recipient_email
+
+VwM777xkj827 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+reinvent -> B-item_description
+out-of-the-box -> I-item_description
+eyeballs -> I-item_description
+8 -> B-item_quantity
+69.72 -> B-item_unit_price
+557.76 -> B-item_total
+
+transition -> B-item_description
+bleeding-edge -> I-item_description
+initiatives -> I-item_description
+1 -> B-item_quantity
+40.93 -> B-item_unit_price
+40.93 -> B-item_total
+
+unleash -> B-item_description
+intuitive -> I-item_description
+models -> I-item_description
+8 -> B-item_quantity
+12.63 -> B-item_unit_price
+101.04 -> B-item_total
+
+unleash -> B-item_description
+leading-edge -> I-item_description
+deliverables -> I-item_description
+10 -> B-item_quantity
+39.18 -> B-item_unit_price
+391.8 -> B-item_total
+
+Subtotal -> O
+: -> O
+1091.53 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+174.64 -> B-tax_amount
+
+Total -> O
+: -> O
+1266.17 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

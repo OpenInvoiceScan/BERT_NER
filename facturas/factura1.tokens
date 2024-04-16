@@ -1,0 +1,79 @@
+Factura -> O
+H639759 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-03-21 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-05 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Rodriguez, -> B-issuer_name
+Brown -> I-issuer_name
+and -> I-issuer_name
+Lewis -> I-issuer_name
+Ashley -> B-recipient_name
+Watkins -> I-recipient_name
+31217 -> B-issuer_address
+Ian -> I-issuer_address
+Throughway -> I-issuer_address
+Sharonhaven, -> I-issuer_address
+DE -> I-issuer_address
+45188 -> I-issuer_address
+48121 -> B-recipient_address
+Orr -> I-recipient_address
+Light -> I-recipient_address
+Richardport, -> I-recipient_address
+WI -> I-recipient_address
+04499 -> I-recipient_address
+(808)212-5827 -> B-issuer_phone
+(312)684-3707x308 -> B-recipient_phone
+ubrown@vazquez-kelly.com -> B-issuer_email
+petersonashley@yahoo.com -> B-recipient_email
+sUZ892jNn684 -> B-issuer_tax_id
+uBT515oVi983 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+orchestrate -> B-item_description
+integrated -> I-item_description
+e-markets -> I-item_description
+7 -> B-item_quantity
+22.78 -> B-item_unit_price
+159.46 -> B-item_total
+
+Subtotal -> O
+: -> O
+159.46 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+25.51 -> B-tax_amount
+
+Total -> O
+: -> O
+184.97 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

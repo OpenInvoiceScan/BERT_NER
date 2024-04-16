@@ -1,0 +1,96 @@
+Factura -> O
+FH600301 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-03-11 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-04-15 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Williams, -> B-issuer_name
+York -> I-issuer_name
+and -> I-issuer_name
+Schwartz -> I-issuer_name
+Katrina -> B-recipient_name
+Fritz -> I-recipient_name
+540 -> B-issuer_address
+Strong -> I-issuer_address
+Green -> I-issuer_address
+North -> I-issuer_address
+April, -> I-issuer_address
+AK -> I-issuer_address
+08628 -> I-issuer_address
+0936 -> B-recipient_address
+Butler -> I-recipient_address
+Villages -> I-recipient_address
+Apt. -> I-recipient_address
+228 -> I-recipient_address
+Williamhaven, -> I-recipient_address
+NY -> I-recipient_address
+24061 -> I-recipient_address
+2803178625 -> B-issuer_phone
++1-905-539-8849x13583 -> B-recipient_phone
+hamptondanielle@griffin.com -> B-issuer_email
+mariah65@gmail.com -> B-recipient_email
+vsP770Fmb986 -> B-issuer_tax_id
+arF309WLD229 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+expedite -> B-item_description
+24/7 -> I-item_description
+systems -> I-item_description
+9 -> B-item_quantity
+80.86 -> B-item_unit_price
+727.74 -> B-item_total
+
+orchestrate -> B-item_description
+web-enabled -> I-item_description
+models -> I-item_description
+7 -> B-item_quantity
+65.31 -> B-item_unit_price
+457.17 -> B-item_total
+
+drive -> B-item_description
+enterprise -> I-item_description
+technologies -> I-item_description
+10 -> B-item_quantity
+46.53 -> B-item_unit_price
+465.3 -> B-item_total
+
+Subtotal -> O
+: -> O
+1650.21 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+264.03 -> B-tax_amount
+
+Total -> O
+: -> O
+1914.24 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

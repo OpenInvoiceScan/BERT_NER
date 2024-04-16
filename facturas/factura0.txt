@@ -1,0 +1,22 @@
+Factura
+F302087
+
+Fecha de emisión: 2024-04-03
+Fecha de vencimiento: 2024-05-04
+
+Datos del Emisor: Datos del Receptor:
+Escobar Ltd Dawn Huff
+23753 Kevin Heights Apt. 952 East James, NH 58110 19318 Lewis Alley Jessicafort, DE 07200
+852-611-7600x00438 001-355-759-3217
+rosewhitneyOhull.info leah450O hotmail.com
+yILO86tzq553 BAd485Cms932
+Descripción Cantidad Precio Unitario Total
+re-contextualize world-class portals 1 88.74 88.74
+enable robust methodologies 5 10.09 50.45
+
+Subtotal: 139.19
+VAT (16%): 22.27
+Total: 161.46
+
+Método de pago: Credit Card
+

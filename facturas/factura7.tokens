@@ -1,0 +1,89 @@
+Factura -> O
+H699455 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-03-09 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-04-28 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Calderon, -> B-issuer_name
+Taylor -> I-issuer_name
+and -> I-issuer_name
+Freeman -> I-issuer_name
+
+372 -> B-issuer_address
+Phillips -> I-issuer_address
+Roads -> I-issuer_address
+Newmanmouth, -> I-issuer_address
+PW -> I-issuer_address
+89903 -> I-issuer_address
+
+001-844-780-3084x048 -> B-issuer_phone
+
+jmason@jackson.com -> B-issuer_email
+
+QpW598ffm943 -> B-issuer_tax_id
+
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Christopher -> B-recipient_name
+Welch -> I-recipient_name
+
+Unit -> B-recipient_address
+7123 -> I-recipient_address
+Box -> I-recipient_address
+0694 -> I-recipient_address
+DPO -> I-recipient_address
+AP -> I-recipient_address
+71526 -> I-recipient_address
+
+365.702.2648 -> B-recipient_phone
+
+benjaminwalker@yahoo.com -> B-recipient_email
+
+lZC559kOg869 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+enable -> B-item_description
+visionary -> I-item_description
+metrics -> I-item_description
+3 -> B-item_quantity
+90.17 -> B-item_unit_price
+270.51 -> B-item_total
+
+Subtotal -> O
+: -> O
+270.51 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+43.28 -> B-tax_amount
+
+Total -> O
+: -> O
+313.79 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+Bank Transfer -> B-payment_method

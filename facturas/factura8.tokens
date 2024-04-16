@@ -1,0 +1,112 @@
+Factura -> O
+581878 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-03-16 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-04-20 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Russell-Clay -> B-issuer_name
+
+811 -> B-issuer_address
+Ian -> I-issuer_address
+Points -> I-issuer_address
+Suite -> I-issuer_address
+290 -> I-issuer_address
+West -> I-issuer_address
+Peterstad, -> I-issuer_address
+LA -> I-issuer_address
+72878 -> I-issuer_address
+
+001-397-927-8994x562 -> B-issuer_phone
+
+zachary37@ponce-dawson.info -> B-issuer_email
+
+FMq961pqN521 -> B-issuer_tax_id
+
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Cindy -> B-recipient_name
+Davis -> I-recipient_name
+
+6851 -> B-recipient_address
+Everett -> I-recipient_address
+Mews -> I-recipient_address
+Suite -> I-recipient_address
+735 -> I-recipient_address
+East -> I-recipient_address
+Desireemouth, -> I-recipient_address
+VT -> I-recipient_address
+54474 -> I-recipient_address
+
+283.527.5218x7188 -> B-recipient_phone
+
+brianpeterson@hotmail.com -> B-recipient_email
+
+PKS788qxc071 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+leverage -> B-item_description
+cross-platform -> I-item_description
+technologies -> I-item_description
+7 -> B-item_quantity
+95.88 -> B-item_unit_price
+671.16 -> B-item_total
+
+deploy -> B-item_description
+efficient -> I-item_description
+schemas -> I-item_description
+4 -> B-item_quantity
+67.07 -> B-item_unit_price
+268.28 -> B-item_total
+
+innovate -> B-item_description
+turn-key -> I-item_description
+action-items -> I-item_description
+4 -> B-item_quantity
+74.3 -> B-item_unit_price
+297.2 -> B-item_total
+
+leverage -> B-item_description
+intuitive -> I-item_description
+eyeballs -> I-item_description
+9 -> B-item_quantity
+44.27 -> B-item_unit_price
+398.43 -> B-item_total
+
+Subtotal -> O
+: -> O
+1635.07 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+261.61 -> B-tax_amount
+
+Total -> O
+: -> O
+1896.68 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+Credit Card -> B-payment_method

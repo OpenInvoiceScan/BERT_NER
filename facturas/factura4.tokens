@@ -1,0 +1,90 @@
+Factura -> O
+H709799 -> B-invoice_id
+
+Fecha -> O
+de -> O
+emisión -> O
+: -> O
+2024-04-03 -> B-issue_date
+
+Fecha -> O
+de -> O
+vencimiento -> O
+: -> O
+2024-05-07 -> B-due_date
+
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Atkins -> B-issuer_name
+Inc -> I-issuer_name
+
+5778 -> B-issuer_address
+Sharon -> I-issuer_address
+Shore -> I-issuer_address
+Apt. -> I-issuer_address
+717 -> I-issuer_address
+South -> I-issuer_address
+Michaelbury, -> I-issuer_address
+NY -> I-issuer_address
+89562 -> I-issuer_address
+
++1-370-799-0369x8618 -> B-issuer_phone
+
+vanessa40@harris.com -> B-issuer_email
+
+sAL517xFk719 -> B-issuer_tax_id
+
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Jacob -> B-recipient_name
+Stephenson -> I-recipient_name
+
+7766 -> B-recipient_address
+Mark -> I-recipient_address
+Fields -> I-recipient_address
+New -> I-recipient_address
+Lisa, -> I-recipient_address
+KY -> I-recipient_address
+70357 -> I-recipient_address
+
+407.268.1618 -> B-recipient_phone
+
+lmcbride@hotmail.com -> B-recipient_email
+
+jDq688gTp867 -> B-recipient_tax_id
+
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+
+innovate -> B-item_description
+collaborative -> I-item_description
+vortals -> I-item_description
+2 -> B-item_quantity
+47.15 -> B-item_unit_price
+94.3 -> B-item_total
+
+Subtotal -> O
+: -> O
+94.3 -> B-subtotal
+
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+15.09 -> B-tax_amount
+
+Total -> O
+: -> O
+109.39 -> B-total
+
+Método -> O
+de -> O
+pago -> O
+: -> O
+PayPal -> B-payment_method

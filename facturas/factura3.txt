@@ -1,0 +1,45 @@
+Factura
+956444
+
+Fecha de emisión: 2024-03-09
+Fecha de vencimiento: 2024-05-03
+
+Datos del Emisor:
+
+Hartman LLC
+
+9254 Walker Avenue Apt. 931 Raymonoville, AR
+58121
+
+001-613-442-5789x26267
+
+chapmanshelleyO grant.com
+
+SI TIANSSY
+
+S/LELEN
+GLOBAL FRESH
+
+Datos del Receptor:
+
+Emily Williams
+
+11230 Andrew Garden Suite 669 Morenomouth, AZ
+51114
+
+499-897-0381x824
+
+shannon260 gmail.com
+
+LRt362Lmy093 NIj398a0Q338
+Descripción Cantidad Precio Unitario Total
+enable user-centric markets 7 67.76 474.32
+transform scalable vortals 6 56.14 336.84
+monetize robust channels L 36.74 36.74
+syndicate customized initiatives 7 75.66 529.62
+cultivate impactful niches 9 71.0 639.0
+
+Subtotal: 2016.52
+VAT (16%): 322.64
+Total: 2339.16
+
