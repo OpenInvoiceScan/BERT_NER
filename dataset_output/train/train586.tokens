@@ -1,0 +1,14 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Walker-Brown -> B-issuer_name
+9710 -> B-issuer_address
+Shannon -> I-issuer_address
+Ridge -> I-issuer_address
+Ortizport, -> I-issuer_address
+MI -> I-issuer_address
+17204 -> I-issuer_address
++1-512-948-6984x20630 -> B-issuer_phone
+priceronald@todd.net -> B-issuer_email
+HTN435iYC919 -> B-issuer_tax_id

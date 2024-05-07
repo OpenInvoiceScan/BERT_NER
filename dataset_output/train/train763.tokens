@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Jeremy -> B-recipient_name
+Rodriguez -> I-recipient_name
+9136 -> B-recipient_address
+Susan -> I-recipient_address
+Streets -> I-recipient_address
+Butlerfurt, -> I-recipient_address
+IN -> I-recipient_address
+07368 -> I-recipient_address
++1-687-353-3254x751 -> B-recipient_phone
+william62@gmail.com -> B-recipient_email
+IMR886lSN190 -> B-recipient_tax_id

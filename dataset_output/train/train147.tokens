@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Robin -> B-recipient_name
+Johnson -> I-recipient_name
+8089 -> B-recipient_address
+Lisa -> I-recipient_address
+Canyon -> I-recipient_address
+Lindsaystad, -> I-recipient_address
+RI -> I-recipient_address
+33608 -> I-recipient_address
+(271)365-6413 -> B-recipient_phone
+karendoyle@gmail.com -> B-recipient_email
+DNC406Yzw893 -> B-recipient_tax_id

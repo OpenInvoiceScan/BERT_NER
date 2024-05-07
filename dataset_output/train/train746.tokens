@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Rodriguez-Patton -> B-issuer_name
+0909 -> B-issuer_address
+Gregory -> I-issuer_address
+Junction -> I-issuer_address
+Suite -> I-issuer_address
+151 -> I-issuer_address
+Elizabethland, -> I-issuer_address
+AS -> I-issuer_address
+06129 -> I-issuer_address
+951-348-3902x79637 -> B-issuer_phone
+dsanders@williams.com -> B-issuer_email
+DBa688iVb141 -> B-issuer_tax_id

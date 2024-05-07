@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Andrew -> B-recipient_name
+Mcdonald -> I-recipient_name
+11595 -> B-recipient_address
+Kristine -> I-recipient_address
+Ranch -> I-recipient_address
+Tiffanyfort, -> I-recipient_address
+ME -> I-recipient_address
+23734 -> I-recipient_address
+(614)315-0453x289 -> B-recipient_phone
+michellebennett@gmail.com -> B-recipient_email
+dfV133iLd032 -> B-recipient_tax_id

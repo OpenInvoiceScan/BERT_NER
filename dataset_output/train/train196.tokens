@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+deploy -> B-item_description
+killer -> I-item_description
+ROI -> I-item_description
+7 -> B-item_quantity
+70.89 -> B-item_unit_price
+496.23 -> B-item_total
+target -> B-item_description
+e-business -> I-item_description
+partnerships -> I-item_description
+1 -> B-item_quantity
+65.78 -> B-item_unit_price
+65.78 -> B-item_total
+orchestrate -> B-item_description
+bleeding-edge -> I-item_description
+portals -> I-item_description
+2 -> B-item_quantity
+73.71 -> B-item_unit_price
+147.42 -> B-item_total
+

@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Jacob -> B-recipient_name
+Henson -> I-recipient_name
+PSC -> B-recipient_address
+0451, -> I-recipient_address
+Box -> I-recipient_address
+9830 -> I-recipient_address
+APO -> I-recipient_address
+AE -> I-recipient_address
+93965 -> I-recipient_address
+(682)977-1740x351 -> B-recipient_phone
+whampton@gmail.com -> B-recipient_email
+niR112Qri633 -> B-recipient_tax_id

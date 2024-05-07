@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Duncan-Gardner -> B-issuer_name
+75459 -> B-issuer_address
+Teresa -> I-issuer_address
+Fort -> I-issuer_address
+Apt. -> I-issuer_address
+313 -> I-issuer_address
+Abbottside, -> I-issuer_address
+ND -> I-issuer_address
+47470 -> I-issuer_address
+364.722.8083x539 -> B-issuer_phone
+rachel67@price.com -> B-issuer_email
+Wue825Rxr054 -> B-issuer_tax_id

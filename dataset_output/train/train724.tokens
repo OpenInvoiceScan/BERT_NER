@@ -1,0 +1,25 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+synergize -> B-item_description
+holistic -> I-item_description
+vortals -> I-item_description
+4 -> B-item_quantity
+61.95 -> B-item_unit_price
+247.8 -> B-item_total
+aggregate -> B-item_description
+robust -> I-item_description
+web -> I-item_description
+services -> I-item_description
+2 -> B-item_quantity
+55.87 -> B-item_unit_price
+111.74 -> B-item_total
+matrix -> B-item_description
+cross-platform -> I-item_description
+content -> I-item_description
+3 -> B-item_quantity
+91.77 -> B-item_unit_price
+275.31 -> B-item_total
+

@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Vasquez -> B-issuer_name
+LLC -> I-issuer_name
+Unit -> B-issuer_address
+7919 -> I-issuer_address
+Box -> I-issuer_address
+1581 -> I-issuer_address
+DPO -> I-issuer_address
+AA -> I-issuer_address
+22191 -> I-issuer_address
+780-882-4896x910 -> B-issuer_phone
+traci51@bauer.com -> B-issuer_email
+vKI340ueE881 -> B-issuer_tax_id

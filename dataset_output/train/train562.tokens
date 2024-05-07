@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Mitchell -> B-issuer_name
+PLC -> I-issuer_name
+41399 -> B-issuer_address
+Atkins -> I-issuer_address
+Parkways -> I-issuer_address
+West -> I-issuer_address
+Brittanyshire, -> I-issuer_address
+WV -> I-issuer_address
+40970 -> I-issuer_address
+928-647-1989x1437 -> B-issuer_phone
+jennifer55@woods.com -> B-issuer_email
+jVA694YHF783 -> B-issuer_tax_id

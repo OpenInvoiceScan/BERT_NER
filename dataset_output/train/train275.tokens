@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Lorraine -> B-recipient_name
+Wilson -> I-recipient_name
+85762 -> B-recipient_address
+Mcdaniel -> I-recipient_address
+Divide -> I-recipient_address
+North -> I-recipient_address
+Mason, -> I-recipient_address
+TX -> I-recipient_address
+56710 -> I-recipient_address
+6163043699 -> B-recipient_phone
+moralesalec@hotmail.com -> B-recipient_email
+aUG143Izw207 -> B-recipient_tax_id

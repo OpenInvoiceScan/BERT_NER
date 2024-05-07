@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+generate -> B-item_description
+seamless -> I-item_description
+convergence -> I-item_description
+7 -> B-item_quantity
+43.49 -> B-item_unit_price
+304.43 -> B-item_total
+

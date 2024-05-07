@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Olsen -> B-issuer_name
+Group -> I-issuer_name
+474 -> B-issuer_address
+Walton -> I-issuer_address
+Inlet -> I-issuer_address
+Apt. -> I-issuer_address
+306 -> I-issuer_address
+Elizabethmouth, -> I-issuer_address
+SC -> I-issuer_address
+79775 -> I-issuer_address
++1-607-254-2065 -> B-issuer_phone
+gharris@guerra.com -> B-issuer_email
+cDJ080lBu518 -> B-issuer_tax_id

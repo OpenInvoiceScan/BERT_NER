@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Jocelyn -> B-recipient_name
+Peterson -> I-recipient_name
+581 -> B-recipient_address
+David -> I-recipient_address
+Radial -> I-recipient_address
+Kimberlymouth, -> I-recipient_address
+UT -> I-recipient_address
+09057 -> I-recipient_address
+873.935.4681x41793 -> B-recipient_phone
+jay23@gmail.com -> B-recipient_email
+JbZ423GEK738 -> B-recipient_tax_id

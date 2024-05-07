@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Bryan -> B-recipient_name
+Young -> I-recipient_name
+1461 -> B-recipient_address
+Mcintyre -> I-recipient_address
+Road -> I-recipient_address
+Williamsmouth, -> I-recipient_address
+TX -> I-recipient_address
+80329 -> I-recipient_address
+(328)803-0949x00469 -> B-recipient_phone
+timothy84@hotmail.com -> B-recipient_email
+QJU024tVj469 -> B-recipient_tax_id

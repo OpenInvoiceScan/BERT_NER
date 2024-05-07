@@ -1,0 +1,18 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+facilitate -> B-item_description
+cross-platform -> I-item_description
+methodologies -> I-item_description
+9 -> B-item_quantity
+64.4 -> B-item_unit_price
+579.6 -> B-item_total
+engage -> B-item_description
+bricks-and-clicks -> I-item_description
+technologies -> I-item_description
+5 -> B-item_quantity
+62.6 -> B-item_unit_price
+313.0 -> B-item_total
+

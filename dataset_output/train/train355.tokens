@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Laura -> B-recipient_name
+Kaufman -> I-recipient_name
+1949 -> B-recipient_address
+Oconnor -> I-recipient_address
+Circles -> I-recipient_address
+Suite -> I-recipient_address
+165 -> I-recipient_address
+Christopherton, -> I-recipient_address
+WA -> I-recipient_address
+62624 -> I-recipient_address
+336-630-6973x18676 -> B-recipient_phone
+charleslawson@yahoo.com -> B-recipient_email
+VJF674OCw185 -> B-recipient_tax_id

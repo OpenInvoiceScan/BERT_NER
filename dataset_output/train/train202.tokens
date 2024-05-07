@@ -1,0 +1,14 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Pollard -> B-issuer_name
+Inc -> I-issuer_name
+USNV -> B-issuer_address
+Spears -> I-issuer_address
+FPO -> I-issuer_address
+AP -> I-issuer_address
+85556 -> I-issuer_address
+(998)673-0332x786 -> B-issuer_phone
+nguyennicole@davidson-brown.com -> B-issuer_email
+PTg673Vzl469 -> B-issuer_tax_id

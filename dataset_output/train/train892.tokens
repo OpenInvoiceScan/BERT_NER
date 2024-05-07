@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+innovate -> B-item_description
+mission-critical -> I-item_description
+deliverables -> I-item_description
+2 -> B-item_quantity
+30.97 -> B-item_unit_price
+61.94 -> B-item_total
+revolutionize -> B-item_description
+plug-and-play -> I-item_description
+deliverables -> I-item_description
+4 -> B-item_quantity
+20.66 -> B-item_unit_price
+82.64 -> B-item_total
+syndicate -> B-item_description
+open-source -> I-item_description
+infrastructures -> I-item_description
+3 -> B-item_quantity
+75.21 -> B-item_unit_price
+225.63 -> B-item_total
+

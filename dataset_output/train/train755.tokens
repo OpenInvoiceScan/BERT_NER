@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Erin -> B-recipient_name
+Bell -> I-recipient_name
+207 -> B-recipient_address
+Kyle -> I-recipient_address
+Isle -> I-recipient_address
+East -> I-recipient_address
+Michelle, -> I-recipient_address
+AS -> I-recipient_address
+37935 -> I-recipient_address
+001-599-968-9140 -> B-recipient_phone
+justinmcdowell@hotmail.com -> B-recipient_email
+GgR560iYs197 -> B-recipient_tax_id

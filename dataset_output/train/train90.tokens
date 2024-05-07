@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Jones, -> B-issuer_name
+Taylor -> I-issuer_name
+and -> I-issuer_name
+Johnson -> I-issuer_name
+USNV -> B-issuer_address
+Rhodes -> I-issuer_address
+FPO -> I-issuer_address
+AE -> I-issuer_address
+01092 -> I-issuer_address
+459-664-5916 -> B-issuer_phone
+kevin01@cole.com -> B-issuer_email
+LIg040TEC376 -> B-issuer_tax_id

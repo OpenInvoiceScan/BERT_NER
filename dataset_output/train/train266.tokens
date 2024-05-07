@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Williams -> B-issuer_name
+PLC -> I-issuer_name
+61798 -> B-issuer_address
+Harris -> I-issuer_address
+Fort -> I-issuer_address
+Apt. -> I-issuer_address
+547 -> I-issuer_address
+Barberborough, -> I-issuer_address
+IN -> I-issuer_address
+17569 -> I-issuer_address
+416-319-0788 -> B-issuer_phone
+nunezrebecca@powers.com -> B-issuer_email
+vQA297ZoR326 -> B-issuer_tax_id

@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Danielle -> B-recipient_name
+Jones -> I-recipient_name
+0781 -> B-recipient_address
+Rocha -> I-recipient_address
+Summit -> I-recipient_address
+Ochoaberg, -> I-recipient_address
+WY -> I-recipient_address
+66921 -> I-recipient_address
++1-855-856-2444 -> B-recipient_phone
+njordan@hotmail.com -> B-recipient_email
+Hin112gkI259 -> B-recipient_tax_id

@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+transition -> B-item_description
+dot-com -> I-item_description
+solutions -> I-item_description
+6 -> B-item_quantity
+47.62 -> B-item_unit_price
+285.72 -> B-item_total
+

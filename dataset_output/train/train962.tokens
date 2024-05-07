@@ -1,0 +1,14 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Robinson-Alvarez -> B-issuer_name
+289 -> B-issuer_address
+James -> I-issuer_address
+Court -> I-issuer_address
+Howardville, -> I-issuer_address
+CO -> I-issuer_address
+42345 -> I-issuer_address
++1-665-888-0885 -> B-issuer_phone
+rubiokimberly@thompson.net -> B-issuer_email
+Axk749DGL057 -> B-issuer_tax_id

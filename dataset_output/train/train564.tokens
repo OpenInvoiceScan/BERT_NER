@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+incentivize -> B-item_description
+end-to-end -> I-item_description
+vortals -> I-item_description
+2 -> B-item_quantity
+31.76 -> B-item_unit_price
+63.52 -> B-item_total
+

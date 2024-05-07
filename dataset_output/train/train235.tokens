@@ -1,0 +1,14 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Jean -> B-recipient_name
+Walker -> I-recipient_name
+USS -> B-recipient_address
+Ritter -> I-recipient_address
+FPO -> I-recipient_address
+AP -> I-recipient_address
+35191 -> I-recipient_address
+6398600175 -> B-recipient_phone
+megan24@gmail.com -> B-recipient_email
+HPg214EGc277 -> B-recipient_tax_id

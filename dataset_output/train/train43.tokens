@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Kathleen -> B-recipient_name
+Spencer -> I-recipient_name
+8721 -> B-recipient_address
+Brian -> I-recipient_address
+Spur -> I-recipient_address
+Apt. -> I-recipient_address
+481 -> I-recipient_address
+Mitchellview, -> I-recipient_address
+AL -> I-recipient_address
+56902 -> I-recipient_address
+(603)812-3408 -> B-recipient_phone
+ibrown@hotmail.com -> B-recipient_email
+SiS166mbE515 -> B-recipient_tax_id

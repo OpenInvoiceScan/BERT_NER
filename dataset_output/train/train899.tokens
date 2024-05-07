@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Jennifer -> B-recipient_name
+Hernandez -> I-recipient_name
+54257 -> B-recipient_address
+Lewis -> I-recipient_address
+Spurs -> I-recipient_address
+North -> I-recipient_address
+Rebeccaborough, -> I-recipient_address
+WA -> I-recipient_address
+30212 -> I-recipient_address
+(510)441-7132x058 -> B-recipient_phone
+aaronmarshall@yahoo.com -> B-recipient_email
+Tqs217DWJ562 -> B-recipient_tax_id

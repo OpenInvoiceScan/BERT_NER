@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Janice -> B-recipient_name
+Fitzgerald -> I-recipient_name
+PSC -> B-recipient_address
+2712, -> I-recipient_address
+Box -> I-recipient_address
+2565 -> I-recipient_address
+APO -> I-recipient_address
+AA -> I-recipient_address
+30640 -> I-recipient_address
+(979)411-2239x03886 -> B-recipient_phone
+sandradavid@gmail.com -> B-recipient_email
+OoE806sHg442 -> B-recipient_tax_id

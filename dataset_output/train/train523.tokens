@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Teresa -> B-recipient_name
+Brown -> I-recipient_name
+858 -> B-recipient_address
+Rodgers -> I-recipient_address
+Lane -> I-recipient_address
+East -> I-recipient_address
+Ethanside, -> I-recipient_address
+PR -> I-recipient_address
+54205 -> I-recipient_address
+416.638.1049x12839 -> B-recipient_phone
+jenniferkent@hotmail.com -> B-recipient_email
+RRn463vcL936 -> B-recipient_tax_id

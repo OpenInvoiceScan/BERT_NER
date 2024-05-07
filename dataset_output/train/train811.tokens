@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Carol -> B-recipient_name
+Horne -> I-recipient_name
+59619 -> B-recipient_address
+Daugherty -> I-recipient_address
+Orchard -> I-recipient_address
+Sarahshire, -> I-recipient_address
+MI -> I-recipient_address
+36815 -> I-recipient_address
+2646188061 -> B-recipient_phone
+kelli20@gmail.com -> B-recipient_email
+oCt490LoB629 -> B-recipient_tax_id

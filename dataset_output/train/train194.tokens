@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Mclaughlin-Brown -> B-issuer_name
+981 -> B-issuer_address
+Vanessa -> I-issuer_address
+Green -> I-issuer_address
+Suite -> I-issuer_address
+441 -> I-issuer_address
+New -> I-issuer_address
+Joshuaburgh, -> I-issuer_address
+DC -> I-issuer_address
+50231 -> I-issuer_address
+677-999-1466x390 -> B-issuer_phone
+nicholasvillegas@lawrence-neal.org -> B-issuer_email
+Ojd810IoM551 -> B-issuer_tax_id

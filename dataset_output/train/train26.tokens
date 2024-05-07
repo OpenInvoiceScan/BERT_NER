@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Scott-Olsen -> B-issuer_name
+64899 -> B-issuer_address
+Brewer -> I-issuer_address
+Wall -> I-issuer_address
+Apt. -> I-issuer_address
+481 -> I-issuer_address
+South -> I-issuer_address
+Peterport, -> I-issuer_address
+HI -> I-issuer_address
+98611 -> I-issuer_address
+001-748-611-0463 -> B-issuer_phone
+roberta45@shaw.net -> B-issuer_email
+uin458lTf339 -> B-issuer_tax_id

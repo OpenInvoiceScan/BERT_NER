@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+James -> B-recipient_name
+Dominguez -> I-recipient_name
+4249 -> B-recipient_address
+Kristen -> I-recipient_address
+Wall -> I-recipient_address
+Apt. -> I-recipient_address
+938 -> I-recipient_address
+Jonesville, -> I-recipient_address
+KY -> I-recipient_address
+70615 -> I-recipient_address
+512.226.4936 -> B-recipient_phone
+matthew73@hotmail.com -> B-recipient_email
+tkK715ZVq132 -> B-recipient_tax_id

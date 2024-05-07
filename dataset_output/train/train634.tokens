@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Moody-Hart -> B-issuer_name
+44443 -> B-issuer_address
+Vincent -> I-issuer_address
+Wells -> I-issuer_address
+Suite -> I-issuer_address
+162 -> I-issuer_address
+New -> I-issuer_address
+Laura, -> I-issuer_address
+MO -> I-issuer_address
+74820 -> I-issuer_address
+001-826-959-6532x445 -> B-issuer_phone
+ucooper@jackson.com -> B-issuer_email
+vTr025oru881 -> B-issuer_tax_id

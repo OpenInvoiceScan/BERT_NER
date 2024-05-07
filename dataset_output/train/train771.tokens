@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Stephanie -> B-recipient_name
+Rose -> I-recipient_name
+4162 -> B-recipient_address
+Wesley -> I-recipient_address
+Crossroad -> I-recipient_address
+Williamshire, -> I-recipient_address
+GU -> I-recipient_address
+77024 -> I-recipient_address
++1-927-488-9450x205 -> B-recipient_phone
+rachel63@yahoo.com -> B-recipient_email
+cUy430qmJ148 -> B-recipient_tax_id

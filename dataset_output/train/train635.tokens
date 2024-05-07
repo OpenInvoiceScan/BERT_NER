@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Benjamin -> B-recipient_name
+Holloway -> I-recipient_name
+7125 -> B-recipient_address
+Cassandra -> I-recipient_address
+Turnpike -> I-recipient_address
+New -> I-recipient_address
+Elizabeth, -> I-recipient_address
+NC -> I-recipient_address
+54000 -> I-recipient_address
+340-493-2676 -> B-recipient_phone
+patriciahuffman@gmail.com -> B-recipient_email
+iWC818eUj362 -> B-recipient_tax_id

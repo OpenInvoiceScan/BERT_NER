@@ -1,0 +1,18 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+transform -> B-item_description
+best-of-breed -> I-item_description
+infrastructures -> I-item_description
+5 -> B-item_quantity
+78.11 -> B-item_unit_price
+390.55 -> B-item_total
+extend -> B-item_description
+magnetic -> I-item_description
+ROI -> I-item_description
+6 -> B-item_quantity
+57.03 -> B-item_unit_price
+342.18 -> B-item_total
+

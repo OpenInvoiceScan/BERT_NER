@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+brand -> B-item_description
+robust -> I-item_description
+convergence -> I-item_description
+8 -> B-item_quantity
+42.59 -> B-item_unit_price
+340.72 -> B-item_total
+reinvent -> B-item_description
+one-to-one -> I-item_description
+models -> I-item_description
+1 -> B-item_quantity
+69.12 -> B-item_unit_price
+69.12 -> B-item_total
+grow -> B-item_description
+plug-and-play -> I-item_description
+metrics -> I-item_description
+8 -> B-item_quantity
+53.66 -> B-item_unit_price
+429.28 -> B-item_total
+

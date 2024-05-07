@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+empower -> B-item_description
+integrated -> I-item_description
+models -> I-item_description
+1 -> B-item_quantity
+39.42 -> B-item_unit_price
+39.42 -> B-item_total
+

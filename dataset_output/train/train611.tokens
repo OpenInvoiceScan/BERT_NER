@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Michael -> B-recipient_name
+Wheeler -> I-recipient_name
+375 -> B-recipient_address
+Timothy -> I-recipient_address
+Harbor -> I-recipient_address
+Erinchester, -> I-recipient_address
+WV -> I-recipient_address
+75114 -> I-recipient_address
+410-713-4341x429 -> B-recipient_phone
+heatherwood@yahoo.com -> B-recipient_email
+eZi286qBM638 -> B-recipient_tax_id

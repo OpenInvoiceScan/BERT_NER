@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Young, -> B-issuer_name
+Obrien -> I-issuer_name
+and -> I-issuer_name
+Craig -> I-issuer_name
+8434 -> B-issuer_address
+Mark -> I-issuer_address
+Pine -> I-issuer_address
+Stephenport, -> I-issuer_address
+NH -> I-issuer_address
+70524 -> I-issuer_address
+001-596-995-2080x6558 -> B-issuer_phone
+michaelmoss@anderson.com -> B-issuer_email
+mLe922NYw240 -> B-issuer_tax_id

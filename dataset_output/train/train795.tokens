@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Jennifer -> B-recipient_name
+Jenkins -> I-recipient_name
+3453 -> B-recipient_address
+Marsh -> I-recipient_address
+Green -> I-recipient_address
+Williammouth, -> I-recipient_address
+CO -> I-recipient_address
+11078 -> I-recipient_address
++1-865-865-9246x558 -> B-recipient_phone
+ibond@yahoo.com -> B-recipient_email
+MZq286cNJ561 -> B-recipient_tax_id

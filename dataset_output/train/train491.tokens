@@ -1,0 +1,14 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Stacy -> B-recipient_name
+Parker -> I-recipient_name
+USNS -> B-recipient_address
+Harris -> I-recipient_address
+FPO -> I-recipient_address
+AE -> I-recipient_address
+16594 -> I-recipient_address
++1-550-989-0037x768 -> B-recipient_phone
+drosario@yahoo.com -> B-recipient_email
+KqO919gsz694 -> B-recipient_tax_id

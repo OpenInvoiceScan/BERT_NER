@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+James-Valdez -> B-issuer_name
+084 -> B-issuer_address
+Hill -> I-issuer_address
+Prairie -> I-issuer_address
+Apt. -> I-issuer_address
+418 -> I-issuer_address
+East -> I-issuer_address
+Steventon, -> I-issuer_address
+NH -> I-issuer_address
+64631 -> I-issuer_address
+001-209-324-0154x4293 -> B-issuer_phone
+uwagner@vargas.com -> B-issuer_email
+CQd571hQJ688 -> B-issuer_tax_id

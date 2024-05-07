@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Felicia -> B-recipient_name
+Barron -> I-recipient_name
+27415 -> B-recipient_address
+Bryan -> I-recipient_address
+Mountain -> I-recipient_address
+Apt. -> I-recipient_address
+259 -> I-recipient_address
+Stephenfurt, -> I-recipient_address
+AK -> I-recipient_address
+45974 -> I-recipient_address
+5547595976 -> B-recipient_phone
+davidrhodes@yahoo.com -> B-recipient_email
+BIJ895oZP320 -> B-recipient_tax_id

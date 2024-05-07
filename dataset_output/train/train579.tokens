@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Sierra -> B-recipient_name
+Hendricks -> I-recipient_name
+4500 -> B-recipient_address
+Henson -> I-recipient_address
+Tunnel -> I-recipient_address
+Keithfurt, -> I-recipient_address
+AS -> I-recipient_address
+30858 -> I-recipient_address
+590-283-4160x3777 -> B-recipient_phone
+bmonroe@hotmail.com -> B-recipient_email
+yah217hSk837 -> B-recipient_tax_id

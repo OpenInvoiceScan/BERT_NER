@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Hunter -> B-recipient_name
+Snyder -> I-recipient_name
+PSC -> B-recipient_address
+7254, -> I-recipient_address
+Box -> I-recipient_address
+5218 -> I-recipient_address
+APO -> I-recipient_address
+AA -> I-recipient_address
+86721 -> I-recipient_address
+001-588-815-7823x2809 -> B-recipient_phone
+fbaldwin@gmail.com -> B-recipient_email
+PPS167kVM697 -> B-recipient_tax_id

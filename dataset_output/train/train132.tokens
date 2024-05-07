@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+visualize -> B-item_description
+next-generation -> I-item_description
+partnerships -> I-item_description
+9 -> B-item_quantity
+87.34 -> B-item_unit_price
+786.06 -> B-item_total
+

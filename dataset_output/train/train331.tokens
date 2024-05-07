@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Laura -> B-recipient_name
+Smith -> I-recipient_name
+643 -> B-recipient_address
+Caitlin -> I-recipient_address
+Prairie -> I-recipient_address
+South -> I-recipient_address
+Dawn, -> I-recipient_address
+CO -> I-recipient_address
+57374 -> I-recipient_address
+(699)820-0211 -> B-recipient_phone
+lrasmussen@yahoo.com -> B-recipient_email
+sVC201qik058 -> B-recipient_tax_id

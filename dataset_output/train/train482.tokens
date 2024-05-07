@@ -1,0 +1,14 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Lowery-Mcclure -> B-issuer_name
+4694 -> B-issuer_address
+Taylor -> I-issuer_address
+Underpass -> I-issuer_address
+Ryanville, -> I-issuer_address
+GU -> I-issuer_address
+95777 -> I-issuer_address
+(571)547-6948 -> B-issuer_phone
+christopher01@hall-lucas.com -> B-issuer_email
+aSa594QpL635 -> B-issuer_tax_id

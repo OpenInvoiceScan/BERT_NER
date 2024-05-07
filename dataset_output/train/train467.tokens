@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Sydney -> B-recipient_name
+Molina -> I-recipient_name
+5612 -> B-recipient_address
+Williams -> I-recipient_address
+Plains -> I-recipient_address
+Marcusmouth, -> I-recipient_address
+TN -> I-recipient_address
+32905 -> I-recipient_address
+001-398-679-0402x40443 -> B-recipient_phone
+david19@yahoo.com -> B-recipient_email
+HMV007Dez792 -> B-recipient_tax_id

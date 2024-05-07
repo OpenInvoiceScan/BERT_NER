@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Weiss -> B-issuer_name
+Ltd -> I-issuer_name
+7326 -> B-issuer_address
+Sampson -> I-issuer_address
+Vista -> I-issuer_address
+Apt. -> I-issuer_address
+666 -> I-issuer_address
+Timothyberg, -> I-issuer_address
+MA -> I-issuer_address
+80456 -> I-issuer_address
+686.576.9709x167 -> B-issuer_phone
+vallen@andrews-roy.com -> B-issuer_email
+agG950Aat389 -> B-issuer_tax_id

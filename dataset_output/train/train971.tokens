@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Nicholas -> B-recipient_name
+Bush -> I-recipient_name
+46047 -> B-recipient_address
+James -> I-recipient_address
+Valleys -> I-recipient_address
+Apt. -> I-recipient_address
+875 -> I-recipient_address
+Timothymouth, -> I-recipient_address
+KY -> I-recipient_address
+77579 -> I-recipient_address
+260.734.5431x630 -> B-recipient_phone
+ryangarrett@yahoo.com -> B-recipient_email
+MUK980huz126 -> B-recipient_tax_id

@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Warner-Williams -> B-issuer_name
+95602 -> B-issuer_address
+Michael -> I-issuer_address
+Vista -> I-issuer_address
+West -> I-issuer_address
+Stephenfurt, -> I-issuer_address
+MP -> I-issuer_address
+62788 -> I-issuer_address
+649-319-2359x71742 -> B-issuer_phone
+gharrison@johnson.com -> B-issuer_email
+aCd270yWC638 -> B-issuer_tax_id

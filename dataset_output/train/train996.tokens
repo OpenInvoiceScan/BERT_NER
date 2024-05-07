@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+syndicate -> B-item_description
+seamless -> I-item_description
+niches -> I-item_description
+9 -> B-item_quantity
+56.31 -> B-item_unit_price
+506.79 -> B-item_total
+maximize -> B-item_description
+value-added -> I-item_description
+architectures -> I-item_description
+10 -> B-item_quantity
+25.26 -> B-item_unit_price
+252.6 -> B-item_total
+mesh -> B-item_description
+front-end -> I-item_description
+solutions -> I-item_description
+6 -> B-item_quantity
+78.06 -> B-item_unit_price
+468.36 -> B-item_total
+

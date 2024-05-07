@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Clark-Graham -> B-issuer_name
+923 -> B-issuer_address
+Carson -> I-issuer_address
+Haven -> I-issuer_address
+Suite -> I-issuer_address
+639 -> I-issuer_address
+West -> I-issuer_address
+Carolchester, -> I-issuer_address
+AS -> I-issuer_address
+38671 -> I-issuer_address
+849-550-9775x4084 -> B-issuer_phone
+tdaniels@barnes-nelson.info -> B-issuer_email
+cBG746ktZ058 -> B-issuer_tax_id

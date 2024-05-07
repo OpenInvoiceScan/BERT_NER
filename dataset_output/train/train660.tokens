@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+target -> B-item_description
+24/365 -> I-item_description
+e-markets -> I-item_description
+8 -> B-item_quantity
+58.86 -> B-item_unit_price
+470.88 -> B-item_total
+

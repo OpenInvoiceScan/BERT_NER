@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Elaine -> B-recipient_name
+Morris -> I-recipient_name
+7990 -> B-recipient_address
+Gabriel -> I-recipient_address
+Prairie -> I-recipient_address
+Suite -> I-recipient_address
+308 -> I-recipient_address
+Coxberg, -> I-recipient_address
+IN -> I-recipient_address
+05967 -> I-recipient_address
+808-763-5724x5371 -> B-recipient_phone
+melissarivers@gmail.com -> B-recipient_email
+raU651dnF076 -> B-recipient_tax_id

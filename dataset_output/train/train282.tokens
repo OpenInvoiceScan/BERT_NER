@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Bryant -> B-issuer_name
+PLC -> I-issuer_name
+4536 -> B-issuer_address
+Miller -> I-issuer_address
+Courts -> I-issuer_address
+West -> I-issuer_address
+Angela, -> I-issuer_address
+NH -> I-issuer_address
+77743 -> I-issuer_address
+425-828-6459x3090 -> B-issuer_phone
+jamesmarsh@hayes-stewart.org -> B-issuer_email
+GAx668zru649 -> B-issuer_tax_id

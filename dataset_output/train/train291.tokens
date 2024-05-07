@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Bonnie -> B-recipient_name
+Ward -> I-recipient_name
+74352 -> B-recipient_address
+Murphy -> I-recipient_address
+Knolls -> I-recipient_address
+Allenville, -> I-recipient_address
+IA -> I-recipient_address
+28128 -> I-recipient_address
++1-321-577-1065x31746 -> B-recipient_phone
+nrogers@gmail.com -> B-recipient_email
+ZJx396bbc124 -> B-recipient_tax_id

@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Christopher -> B-recipient_name
+Thomas -> I-recipient_name
+0415 -> B-recipient_address
+Ethan -> I-recipient_address
+Camp -> I-recipient_address
+New -> I-recipient_address
+Josephborough, -> I-recipient_address
+MT -> I-recipient_address
+86059 -> I-recipient_address
+860.929.6206x90598 -> B-recipient_phone
+susanconner@yahoo.com -> B-recipient_email
+UOb687nih851 -> B-recipient_tax_id

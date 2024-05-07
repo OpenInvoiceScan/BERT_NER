@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Thompson-Jones -> B-issuer_name
+675 -> B-issuer_address
+Chelsea -> I-issuer_address
+Summit -> I-issuer_address
+Port -> I-issuer_address
+Martha, -> I-issuer_address
+OR -> I-issuer_address
+02470 -> I-issuer_address
+923.745.9285x33950 -> B-issuer_phone
+rnichols@porter-kramer.net -> B-issuer_email
+Yqw630WwG155 -> B-issuer_tax_id

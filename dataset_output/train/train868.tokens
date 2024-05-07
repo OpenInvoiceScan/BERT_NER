@@ -1,0 +1,18 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+repurpose -> B-item_description
+vertical -> I-item_description
+communities -> I-item_description
+1 -> B-item_quantity
+62.75 -> B-item_unit_price
+62.75 -> B-item_total
+extend -> B-item_description
+customized -> I-item_description
+ROI -> I-item_description
+5 -> B-item_quantity
+43.44 -> B-item_unit_price
+217.2 -> B-item_total
+

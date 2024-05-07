@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Amanda -> B-recipient_name
+Solis -> I-recipient_name
+291 -> B-recipient_address
+Linda -> I-recipient_address
+Glens -> I-recipient_address
+Apt. -> I-recipient_address
+815 -> I-recipient_address
+Paceland, -> I-recipient_address
+MH -> I-recipient_address
+53186 -> I-recipient_address
+391-998-9985x87559 -> B-recipient_phone
+campbellpatrick@hotmail.com -> B-recipient_email
+IsX028ote858 -> B-recipient_tax_id

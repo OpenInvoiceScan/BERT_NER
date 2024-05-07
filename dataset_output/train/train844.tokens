@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+revolutionize -> B-item_description
+leading-edge -> I-item_description
+interfaces -> I-item_description
+4 -> B-item_quantity
+84.07 -> B-item_unit_price
+336.28 -> B-item_total
+

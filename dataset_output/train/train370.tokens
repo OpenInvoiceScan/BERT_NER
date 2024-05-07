@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Welch -> B-issuer_name
+and -> I-issuer_name
+Sons -> I-issuer_name
+58267 -> B-issuer_address
+Alvarez -> I-issuer_address
+Track -> I-issuer_address
+North -> I-issuer_address
+Nathan, -> I-issuer_address
+FL -> I-issuer_address
+62159 -> I-issuer_address
+613-298-4435 -> B-issuer_phone
+robinsontommy@conway-kelly.biz -> B-issuer_email
+wnu266NMF756 -> B-issuer_tax_id

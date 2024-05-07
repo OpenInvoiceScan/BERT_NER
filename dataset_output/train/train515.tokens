@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Joshua -> B-recipient_name
+Jenkins -> I-recipient_name
+93154 -> B-recipient_address
+Brenda -> I-recipient_address
+Overpass -> I-recipient_address
+East -> I-recipient_address
+Jonathan, -> I-recipient_address
+ID -> I-recipient_address
+13410 -> I-recipient_address
+(348)764-9334 -> B-recipient_phone
+paulramirez@gmail.com -> B-recipient_email
+Joc136aGw666 -> B-recipient_tax_id

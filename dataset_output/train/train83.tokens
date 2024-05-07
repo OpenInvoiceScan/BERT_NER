@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Kimberly -> B-recipient_name
+Olsen -> I-recipient_name
+Unit -> B-recipient_address
+6268 -> I-recipient_address
+Box -> I-recipient_address
+4449 -> I-recipient_address
+DPO -> I-recipient_address
+AE -> I-recipient_address
+60775 -> I-recipient_address
+204.994.6623 -> B-recipient_phone
+priscillahowell@gmail.com -> B-recipient_email
+ILS711XBD440 -> B-recipient_tax_id

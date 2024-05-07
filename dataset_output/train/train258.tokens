@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Smith, -> B-issuer_name
+Gutierrez -> I-issuer_name
+and -> I-issuer_name
+Odonnell -> I-issuer_name
+USNS -> B-issuer_address
+Wilkerson -> I-issuer_address
+FPO -> I-issuer_address
+AP -> I-issuer_address
+63566 -> I-issuer_address
+001-297-492-9965x671 -> B-issuer_phone
+anna95@james-frederick.com -> B-issuer_email
+GEy747KfZ161 -> B-issuer_tax_id

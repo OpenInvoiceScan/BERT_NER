@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+syndicate -> B-item_description
+sticky -> I-item_description
+platforms -> I-item_description
+8 -> B-item_quantity
+37.5 -> B-item_unit_price
+300.0 -> B-item_total
+

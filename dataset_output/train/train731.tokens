@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Justin -> B-recipient_name
+Hammond -> I-recipient_name
+762 -> B-recipient_address
+Mary -> I-recipient_address
+Squares -> I-recipient_address
+Suite -> I-recipient_address
+644 -> I-recipient_address
+Andrewsbury, -> I-recipient_address
+NM -> I-recipient_address
+69084 -> I-recipient_address
+(861)791-5483x10985 -> B-recipient_phone
+julie58@hotmail.com -> B-recipient_email
+tmu908SgV603 -> B-recipient_tax_id

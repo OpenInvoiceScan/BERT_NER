@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+streamline -> B-item_description
+value-added -> I-item_description
+technologies -> I-item_description
+6 -> B-item_quantity
+98.23 -> B-item_unit_price
+589.38 -> B-item_total
+redefine -> B-item_description
+out-of-the-box -> I-item_description
+channels -> I-item_description
+10 -> B-item_quantity
+93.59 -> B-item_unit_price
+935.9 -> B-item_total
+re-contextualize -> B-item_description
+revolutionary -> I-item_description
+partnerships -> I-item_description
+3 -> B-item_quantity
+38.8 -> B-item_unit_price
+116.4 -> B-item_total
+

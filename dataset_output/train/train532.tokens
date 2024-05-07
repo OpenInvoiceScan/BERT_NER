@@ -1,0 +1,18 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+implement -> B-item_description
+dynamic -> I-item_description
+mindshare -> I-item_description
+7 -> B-item_quantity
+92.85 -> B-item_unit_price
+649.95 -> B-item_total
+integrate -> B-item_description
+frictionless -> I-item_description
+e-services -> I-item_description
+3 -> B-item_quantity
+98.53 -> B-item_unit_price
+295.59 -> B-item_total
+

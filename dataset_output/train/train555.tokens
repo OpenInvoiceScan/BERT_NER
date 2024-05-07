@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Kathryn -> B-recipient_name
+Contreras -> I-recipient_name
+634 -> B-recipient_address
+Daniel -> I-recipient_address
+Shores -> I-recipient_address
+Lake -> I-recipient_address
+Tanya, -> I-recipient_address
+SC -> I-recipient_address
+49009 -> I-recipient_address
+(742)708-8442x637 -> B-recipient_phone
+leryan@hotmail.com -> B-recipient_email
+Irt783BSS491 -> B-recipient_tax_id

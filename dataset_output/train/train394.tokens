@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Coleman-Rodriguez -> B-issuer_name
+00739 -> B-issuer_address
+Jessica -> I-issuer_address
+Ville -> I-issuer_address
+Port -> I-issuer_address
+Vanessafurt, -> I-issuer_address
+WY -> I-issuer_address
+05515 -> I-issuer_address
+881-808-5224x38611 -> B-issuer_phone
+rhodeskevin@walter.com -> B-issuer_email
+CYs342wcw767 -> B-issuer_tax_id

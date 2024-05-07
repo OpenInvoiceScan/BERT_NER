@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Lori -> B-recipient_name
+Glenn -> I-recipient_name
+58078 -> B-recipient_address
+Michele -> I-recipient_address
+Rest -> I-recipient_address
+Edwardsview, -> I-recipient_address
+AS -> I-recipient_address
+05654 -> I-recipient_address
+001-711-962-2170x32163 -> B-recipient_phone
+michelleoconnell@yahoo.com -> B-recipient_email
+Ndg833CpW472 -> B-recipient_tax_id

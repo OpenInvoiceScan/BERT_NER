@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Ortiz -> B-issuer_name
+Group -> I-issuer_name
+2501 -> B-issuer_address
+Williams -> I-issuer_address
+Knolls -> I-issuer_address
+Kimberlyhaven, -> I-issuer_address
+MP -> I-issuer_address
+33977 -> I-issuer_address
+219-933-5377x262 -> B-issuer_phone
+carlapatterson@adams-wilson.com -> B-issuer_email
+VXi325aTx023 -> B-issuer_tax_id

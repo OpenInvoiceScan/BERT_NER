@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Monica -> B-recipient_name
+Drake -> I-recipient_name
+89839 -> B-recipient_address
+Jennifer -> I-recipient_address
+Station -> I-recipient_address
+Apt. -> I-recipient_address
+106 -> I-recipient_address
+Waltonside, -> I-recipient_address
+NH -> I-recipient_address
+33451 -> I-recipient_address
+(656)422-4857x436 -> B-recipient_phone
+gallen@gmail.com -> B-recipient_email
+xsq746ARV747 -> B-recipient_tax_id

@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Rose -> B-issuer_name
+LLC -> I-issuer_name
+PSC -> B-issuer_address
+1095, -> I-issuer_address
+Box -> I-issuer_address
+9564 -> I-issuer_address
+APO -> I-issuer_address
+AA -> I-issuer_address
+02284 -> I-issuer_address
+(391)363-1731x3047 -> B-issuer_phone
+reneelee@pugh.com -> B-issuer_email
+WKH712TWk408 -> B-issuer_tax_id

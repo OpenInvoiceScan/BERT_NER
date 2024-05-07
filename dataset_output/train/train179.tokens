@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Kristina -> B-recipient_name
+Mayo -> I-recipient_name
+20782 -> B-recipient_address
+Reyes -> I-recipient_address
+Stream -> I-recipient_address
+Frostfort, -> I-recipient_address
+GU -> I-recipient_address
+73505 -> I-recipient_address
+959.989.6653 -> B-recipient_phone
+yortiz@yahoo.com -> B-recipient_email
+dvk920kML153 -> B-recipient_tax_id

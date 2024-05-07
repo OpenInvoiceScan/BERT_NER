@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Adkins -> B-issuer_name
+and -> I-issuer_name
+Sons -> I-issuer_name
+6987 -> B-issuer_address
+Nicole -> I-issuer_address
+Forge -> I-issuer_address
+South -> I-issuer_address
+Jesseville, -> I-issuer_address
+PA -> I-issuer_address
+69715 -> I-issuer_address
+001-450-376-8683x57054 -> B-issuer_phone
+mwashington@johnson.biz -> B-issuer_email
+rVg944FDM068 -> B-issuer_tax_id

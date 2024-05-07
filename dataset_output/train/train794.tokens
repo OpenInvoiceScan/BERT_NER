@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Savage -> B-issuer_name
+PLC -> I-issuer_name
+8128 -> B-issuer_address
+Anna -> I-issuer_address
+Knoll -> I-issuer_address
+Lake -> I-issuer_address
+Donnaville, -> I-issuer_address
+KY -> I-issuer_address
+60238 -> I-issuer_address
+9703529959 -> B-issuer_phone
+millersusan@potter.com -> B-issuer_email
+wZx009oqC257 -> B-issuer_tax_id

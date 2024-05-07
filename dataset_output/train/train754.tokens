@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Cox -> B-issuer_name
+LLC -> I-issuer_name
+9577 -> B-issuer_address
+Richard -> I-issuer_address
+Manor -> I-issuer_address
+Lake -> I-issuer_address
+Aaronview, -> I-issuer_address
+WI -> I-issuer_address
+54883 -> I-issuer_address
+599-805-2641x756 -> B-issuer_phone
+qbowman@alexander.com -> B-issuer_email
+lKw760dFd596 -> B-issuer_tax_id

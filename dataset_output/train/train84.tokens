@@ -1,0 +1,18 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+embrace -> B-item_description
+revolutionary -> I-item_description
+e-commerce -> I-item_description
+5 -> B-item_quantity
+94.66 -> B-item_unit_price
+473.3 -> B-item_total
+mesh -> B-item_description
+24/7 -> I-item_description
+eyeballs -> I-item_description
+9 -> B-item_quantity
+14.39 -> B-item_unit_price
+129.51 -> B-item_total
+

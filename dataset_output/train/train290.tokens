@@ -1,0 +1,14 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Cook-Chen -> B-issuer_name
+034 -> B-issuer_address
+Joseph -> I-issuer_address
+Plaza -> I-issuer_address
+Hartmouth, -> I-issuer_address
+UT -> I-issuer_address
+35399 -> I-issuer_address
+628-737-8189x211 -> B-issuer_phone
+adrian60@ward-valdez.com -> B-issuer_email
+KYH278Dtn540 -> B-issuer_tax_id

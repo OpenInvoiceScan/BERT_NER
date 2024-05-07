@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Johnson-Saunders -> B-issuer_name
+408 -> B-issuer_address
+Brooks -> I-issuer_address
+Inlet -> I-issuer_address
+Suite -> I-issuer_address
+001 -> I-issuer_address
+West -> I-issuer_address
+Alan, -> I-issuer_address
+VA -> I-issuer_address
+80082 -> I-issuer_address
+912-618-4912 -> B-issuer_phone
+ggardner@cook-hudson.com -> B-issuer_email
+wuv204tym651 -> B-issuer_tax_id

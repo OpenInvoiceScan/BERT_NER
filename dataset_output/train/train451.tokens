@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Maria -> B-recipient_name
+Adams -> I-recipient_name
+743 -> B-recipient_address
+Summers -> I-recipient_address
+Bridge -> I-recipient_address
+Suite -> I-recipient_address
+083 -> I-recipient_address
+Kellystad, -> I-recipient_address
+WI -> I-recipient_address
+96080 -> I-recipient_address
++1-854-813-4663 -> B-recipient_phone
+lisawhite@yahoo.com -> B-recipient_email
+ruI300IGU402 -> B-recipient_tax_id

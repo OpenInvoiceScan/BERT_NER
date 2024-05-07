@@ -1,0 +1,10 @@
+Subtotal -> O
+: -> O
+1643.4 -> B-subtotal
+VAT -> B-tax_description
+(16%) -> B-tax_percentage
+: -> O
+262.94 -> B-tax_amount
+Total -> O
+: -> O
+1906.34 -> B-total

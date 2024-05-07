@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Blake -> B-recipient_name
+Walker -> I-recipient_name
+475 -> B-recipient_address
+Kane -> I-recipient_address
+Parkway -> I-recipient_address
+Kristineview, -> I-recipient_address
+AR -> I-recipient_address
+78387 -> I-recipient_address
+001-713-919-5395x48119 -> B-recipient_phone
+michael45@hotmail.com -> B-recipient_email
+efr938DLL979 -> B-recipient_tax_id

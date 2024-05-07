@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+mesh -> B-item_description
+compelling -> I-item_description
+channels -> I-item_description
+7 -> B-item_quantity
+38.5 -> B-item_unit_price
+269.5 -> B-item_total
+

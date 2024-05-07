@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Ariel -> B-recipient_name
+Wright -> I-recipient_name
+DDS -> I-recipient_name
+225 -> B-recipient_address
+Roberts -> I-recipient_address
+Mission -> I-recipient_address
+East -> I-recipient_address
+Tylertown, -> I-recipient_address
+GA -> I-recipient_address
+68683 -> I-recipient_address
+835-993-1015 -> B-recipient_phone
+williamcooke@yahoo.com -> B-recipient_email
+fGm647Qdq454 -> B-recipient_tax_id

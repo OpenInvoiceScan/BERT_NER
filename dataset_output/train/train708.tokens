@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+e-enable -> B-item_description
+holistic -> I-item_description
+vortals -> I-item_description
+8 -> B-item_quantity
+24.55 -> B-item_unit_price
+196.4 -> B-item_total
+expedite -> B-item_description
+compelling -> I-item_description
+experiences -> I-item_description
+5 -> B-item_quantity
+39.03 -> B-item_unit_price
+195.15 -> B-item_total
+deploy -> B-item_description
+collaborative -> I-item_description
+partnerships -> I-item_description
+4 -> B-item_quantity
+54.54 -> B-item_unit_price
+218.16 -> B-item_total
+

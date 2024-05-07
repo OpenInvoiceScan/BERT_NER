@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Scott -> B-recipient_name
+Harris -> I-recipient_name
+948 -> B-recipient_address
+Thomas -> I-recipient_address
+Centers -> I-recipient_address
+Suite -> I-recipient_address
+064 -> I-recipient_address
+Patriciabury, -> I-recipient_address
+TN -> I-recipient_address
+23323 -> I-recipient_address
+9854248999 -> B-recipient_phone
+jillwilliams@gmail.com -> B-recipient_email
+Hib562TLT602 -> B-recipient_tax_id

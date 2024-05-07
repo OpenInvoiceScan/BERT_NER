@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Kendra -> B-recipient_name
+Davis -> I-recipient_name
+14236 -> B-recipient_address
+Paul -> I-recipient_address
+Crest -> I-recipient_address
+Suite -> I-recipient_address
+146 -> I-recipient_address
+Bowersbury, -> I-recipient_address
+OR -> I-recipient_address
+10691 -> I-recipient_address
+001-710-828-3386x339 -> B-recipient_phone
+emily77@hotmail.com -> B-recipient_email
+FFW002qNp711 -> B-recipient_tax_id

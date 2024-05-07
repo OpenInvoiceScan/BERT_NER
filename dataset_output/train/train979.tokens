@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Amanda -> B-recipient_name
+Davis -> I-recipient_name
+28692 -> B-recipient_address
+Megan -> I-recipient_address
+Flats -> I-recipient_address
+Dianaberg, -> I-recipient_address
+MD -> I-recipient_address
+67014 -> I-recipient_address
+412-882-0501x0534 -> B-recipient_phone
+jeffrey81@yahoo.com -> B-recipient_email
+XTg920uFw576 -> B-recipient_tax_id

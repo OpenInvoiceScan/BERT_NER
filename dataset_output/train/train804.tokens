@@ -1,0 +1,18 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+exploit -> B-item_description
+killer -> I-item_description
+functionalities -> I-item_description
+2 -> B-item_quantity
+45.78 -> B-item_unit_price
+91.56 -> B-item_total
+generate -> B-item_description
+transparent -> I-item_description
+vortals -> I-item_description
+1 -> B-item_quantity
+54.5 -> B-item_unit_price
+54.5 -> B-item_total
+

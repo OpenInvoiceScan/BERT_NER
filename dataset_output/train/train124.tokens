@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+iterate -> B-item_description
+seamless -> I-item_description
+platforms -> I-item_description
+10 -> B-item_quantity
+98.33 -> B-item_unit_price
+983.3 -> B-item_total
+

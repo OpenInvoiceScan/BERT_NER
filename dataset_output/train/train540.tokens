@@ -1,0 +1,25 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+drive -> B-item_description
+best-of-breed -> I-item_description
+schemas -> I-item_description
+6 -> B-item_quantity
+35.57 -> B-item_unit_price
+213.42 -> B-item_total
+productize -> B-item_description
+frictionless -> I-item_description
+web -> I-item_description
+services -> I-item_description
+8 -> B-item_quantity
+38.0 -> B-item_unit_price
+304.0 -> B-item_total
+matrix -> B-item_description
+sticky -> I-item_description
+users -> I-item_description
+4 -> B-item_quantity
+35.87 -> B-item_unit_price
+143.48 -> B-item_total
+

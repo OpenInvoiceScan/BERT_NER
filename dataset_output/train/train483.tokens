@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Gina -> B-recipient_name
+Turner -> I-recipient_name
+64552 -> B-recipient_address
+Shawn -> I-recipient_address
+Circles -> I-recipient_address
+Youngmouth, -> I-recipient_address
+CT -> I-recipient_address
+59405 -> I-recipient_address
+777.841.2303 -> B-recipient_phone
+ramirezlarry@yahoo.com -> B-recipient_email
+LmH001Khs065 -> B-recipient_tax_id

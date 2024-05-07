@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+utilize -> B-item_description
+granular -> I-item_description
+niches -> I-item_description
+1 -> B-item_quantity
+25.39 -> B-item_unit_price
+25.39 -> B-item_total
+

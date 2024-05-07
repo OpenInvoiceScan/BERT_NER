@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+expedite -> B-item_description
+ubiquitous -> I-item_description
+partnerships -> I-item_description
+1 -> B-item_quantity
+93.52 -> B-item_unit_price
+93.52 -> B-item_total
+disintermediate -> B-item_description
+cross-platform -> I-item_description
+users -> I-item_description
+7 -> B-item_quantity
+57.0 -> B-item_unit_price
+399.0 -> B-item_total
+scale -> B-item_description
+killer -> I-item_description
+systems -> I-item_description
+4 -> B-item_quantity
+53.56 -> B-item_unit_price
+214.24 -> B-item_total
+

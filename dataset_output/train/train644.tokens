@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+exploit -> B-item_description
+strategic -> I-item_description
+mindshare -> I-item_description
+4 -> B-item_quantity
+35.85 -> B-item_unit_price
+143.4 -> B-item_total
+maximize -> B-item_description
+frictionless -> I-item_description
+synergies -> I-item_description
+10 -> B-item_quantity
+26.44 -> B-item_unit_price
+264.4 -> B-item_total
+streamline -> B-item_description
+holistic -> I-item_description
+communities -> I-item_description
+6 -> B-item_quantity
+11.16 -> B-item_unit_price
+66.96 -> B-item_total
+

@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Matthew -> B-recipient_name
+Wilson -> I-recipient_name
+7662 -> B-recipient_address
+Patton -> I-recipient_address
+Terrace -> I-recipient_address
+South -> I-recipient_address
+Diana, -> I-recipient_address
+DE -> I-recipient_address
+69754 -> I-recipient_address
+483-529-1366x9765 -> B-recipient_phone
+mark81@yahoo.com -> B-recipient_email
+RGS420mxX243 -> B-recipient_tax_id

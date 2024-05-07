@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Andrew -> B-recipient_name
+Bryant -> I-recipient_name
+9692 -> B-recipient_address
+Oliver -> I-recipient_address
+Harbors -> I-recipient_address
+Samanthaberg, -> I-recipient_address
+TN -> I-recipient_address
+55616 -> I-recipient_address
+001-245-819-3156x7903 -> B-recipient_phone
+lisacombs@yahoo.com -> B-recipient_email
+gzs139zcE898 -> B-recipient_tax_id

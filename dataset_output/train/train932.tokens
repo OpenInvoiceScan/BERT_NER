@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+iterate -> B-item_description
+enterprise -> I-item_description
+applications -> I-item_description
+9 -> B-item_quantity
+99.7 -> B-item_unit_price
+897.3 -> B-item_total
+benchmark -> B-item_description
+distributed -> I-item_description
+content -> I-item_description
+3 -> B-item_quantity
+39.47 -> B-item_unit_price
+118.41 -> B-item_total
+strategize -> B-item_description
+interactive -> I-item_description
+eyeballs -> I-item_description
+5 -> B-item_quantity
+65.52 -> B-item_unit_price
+327.6 -> B-item_total
+

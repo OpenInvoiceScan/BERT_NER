@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Vernon -> B-recipient_name
+Meyers -> I-recipient_name
+081 -> B-recipient_address
+Richmond -> I-recipient_address
+Well -> I-recipient_address
+South -> I-recipient_address
+Mariafurt, -> I-recipient_address
+ID -> I-recipient_address
+20782 -> I-recipient_address
+5643438092 -> B-recipient_phone
+stokescarl@hotmail.com -> B-recipient_email
+eNu004RxP911 -> B-recipient_tax_id

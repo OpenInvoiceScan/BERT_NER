@@ -1,0 +1,12 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+extend -> B-item_description
+seamless -> I-item_description
+ROI -> I-item_description
+3 -> B-item_quantity
+85.22 -> B-item_unit_price
+255.66 -> B-item_total
+

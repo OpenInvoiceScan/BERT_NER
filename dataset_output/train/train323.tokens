@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Douglas -> B-recipient_name
+Arroyo -> I-recipient_name
+2735 -> B-recipient_address
+Alexis -> I-recipient_address
+Extension -> I-recipient_address
+Aliciaport, -> I-recipient_address
+KY -> I-recipient_address
+96753 -> I-recipient_address
++1-954-740-8238x6268 -> B-recipient_phone
+brandon13@gmail.com -> B-recipient_email
+tbh998bGT625 -> B-recipient_tax_id

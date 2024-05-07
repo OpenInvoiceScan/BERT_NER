@@ -1,0 +1,17 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Tamara -> B-recipient_name
+Lee -> I-recipient_name
+8929 -> B-recipient_address
+Julia -> I-recipient_address
+Forks -> I-recipient_address
+Suite -> I-recipient_address
+761 -> I-recipient_address
+Lindachester, -> I-recipient_address
+PA -> I-recipient_address
+68805 -> I-recipient_address
+678-632-1381x86019 -> B-recipient_phone
+stevennunez@gmail.com -> B-recipient_email
+PnG684Ilm995 -> B-recipient_tax_id

@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Schmidt -> B-issuer_name
+Inc -> I-issuer_name
+59759 -> B-issuer_address
+Williams -> I-issuer_address
+Greens -> I-issuer_address
+West -> I-issuer_address
+Taylorbury, -> I-issuer_address
+AL -> I-issuer_address
+69549 -> I-issuer_address
+001-675-936-9955 -> B-issuer_phone
+herrerasamantha@watson.info -> B-issuer_email
+zNd070TRS413 -> B-issuer_tax_id

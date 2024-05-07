@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Robert -> B-recipient_name
+Daniels -> I-recipient_name
+PSC -> B-recipient_address
+6386, -> I-recipient_address
+Box -> I-recipient_address
+2569 -> I-recipient_address
+APO -> I-recipient_address
+AE -> I-recipient_address
+61006 -> I-recipient_address
+548.923.8377x475 -> B-recipient_phone
+rkey@yahoo.com -> B-recipient_email
+IEv144eET393 -> B-recipient_tax_id

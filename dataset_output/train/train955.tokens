@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Joseph -> B-recipient_name
+Thompson -> I-recipient_name
+51038 -> B-recipient_address
+Hicks -> I-recipient_address
+Station -> I-recipient_address
+East -> I-recipient_address
+Michaelport, -> I-recipient_address
+WV -> I-recipient_address
+59921 -> I-recipient_address
+783.949.5878 -> B-recipient_phone
+michellehenderson@hotmail.com -> B-recipient_email
+gql858Nrh402 -> B-recipient_tax_id

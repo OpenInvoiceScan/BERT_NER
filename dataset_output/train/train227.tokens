@@ -1,0 +1,16 @@
+Datos -> O
+del -> O
+Receptor -> O
+: -> O
+Vincent -> B-recipient_name
+Sanders -> I-recipient_name
+79033 -> B-recipient_address
+Roberts -> I-recipient_address
+Shores -> I-recipient_address
+South -> I-recipient_address
+Cameron, -> I-recipient_address
+NE -> I-recipient_address
+27126 -> I-recipient_address
+345.482.2888x491 -> B-recipient_phone
+christina54@gmail.com -> B-recipient_email
+yxy584zVx701 -> B-recipient_tax_id

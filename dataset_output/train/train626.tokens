@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Perry-Morales -> B-issuer_name
+Unit -> B-issuer_address
+8950 -> I-issuer_address
+Box -> I-issuer_address
+2573 -> I-issuer_address
+DPO -> I-issuer_address
+AP -> I-issuer_address
+75134 -> I-issuer_address
+595.810.0115 -> B-issuer_phone
+kayla65@bradley.com -> B-issuer_email
+ENf072zlT632 -> B-issuer_tax_id

@@ -1,0 +1,24 @@
+Descripción -> O
+Cantidad -> O
+Precio -> O
+Unitario -> O
+Total -> O
+aggregate -> B-item_description
+cross-media -> I-item_description
+deliverables -> I-item_description
+7 -> B-item_quantity
+10.52 -> B-item_unit_price
+73.64 -> B-item_total
+re-contextualize -> B-item_description
+interactive -> I-item_description
+e-commerce -> I-item_description
+5 -> B-item_quantity
+98.7 -> B-item_unit_price
+493.5 -> B-item_total
+matrix -> B-item_description
+leading-edge -> I-item_description
+ROI -> I-item_description
+4 -> B-item_quantity
+97.61 -> B-item_unit_price
+390.44 -> B-item_total
+

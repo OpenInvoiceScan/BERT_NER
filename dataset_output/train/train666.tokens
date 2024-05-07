@@ -1,0 +1,15 @@
+Datos -> O
+del -> O
+Emisor -> O
+: -> O
+Turner-Cowan -> B-issuer_name
+673 -> B-issuer_address
+Gabriel -> I-issuer_address
+Point -> I-issuer_address
+West -> I-issuer_address
+Josephberg, -> I-issuer_address
+MS -> I-issuer_address
+40607 -> I-issuer_address
+001-211-879-5530 -> B-issuer_phone
+jesse81@atkinson.org -> B-issuer_email
+Sgk827QAm365 -> B-issuer_tax_id
