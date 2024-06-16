@@ -1,1 +1,4 @@
 model.pth
+model*
+dataset*
+myenv
